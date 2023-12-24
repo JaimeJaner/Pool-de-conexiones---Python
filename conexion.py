@@ -65,10 +65,5 @@ class Conexion:
 if __name__=="__main__":
     conexion1 = Conexion.obtenerConexion()
     Conexion.liberarConexion(conexion1)
-    
+
     conexion2 = Conexion.obtenerConexion()
-    conexion3 = Conexion.obtenerConexion()
-    conexion4 = Conexion.obtenerConexion()
-    conexion5 = Conexion.obtenerConexion()
-    conexion6 = Conexion.obtenerConexion()
-    conexion7 = Conexion.obtenerConexion()
