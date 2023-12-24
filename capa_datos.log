@@ -1,0 +1,1353 @@
+11:21:39 AM: DEBUG [logger_base.py:16 Mensaje a nivel debug]
+11:21:39 AM: INFO [logger_base.py:17 Mensaje a nivel de info]
+11:21:39 AM: WARNING [logger_base.py:18 Mensaje a nivel de warning.]
+11:21:39 AM: ERROR [logger_base.py:19 Mensaje a nivel de error]
+11:21:39 AM: CRITICAL [logger_base.py:20 Mensaje a nivel crï¿½tico.]
+11:32:29 AM: DEBUG [persona.py:47 
+            Id Persona: 1, Nombre: Jaime,
+            Apellido: Janer, Email: J.janer292    
+    ]
+11:33:39 AM: DEBUG [persona.py:47 
+            Id Persona: 1, Nombre: Jaime,
+            Apellido: Janer, Email: J.janer292    
+    ]
+11:35:10 AM: DEBUG [persona.py:47 
+            Id Persona: 1, Nombre: Jaime,
+            Apellido: Janer, Email: J.janer292    
+    ]
+11:35:29 AM: DEBUG [persona.py:47 
+            Id Persona: 1, Nombre: Jaime,
+            Apellido: Janer, Email: J.janer292    
+    ]
+11:35:29 AM: DEBUG [persona.py:51 
+            Id Persona: None, Nombre: Juan,
+            Apellido: Perez, Email: jperez    
+    ]
+11:48:37 AM: ERROR [conexion.py:30 Ocurrió una excepción al obtener la conexión: ]
+11:49:56 AM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x000001FB9DE42570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+11:49:56 AM: ERROR [conexion.py:30 Ocurrió una excepción al obtener la conexión: type object 'Conexion' has no attribute '_Conexion']
+11:51:08 AM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x000002A9536F2570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+11:51:32 AM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x00000246044B2570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+11:51:32 AM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x000002460450A5E0; closed: 0>]
+12:03:05 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x000001D5E7295AD0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+12:03:05 PM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x000001D5E785FA00; closed: 0>]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: Jcjuarez@fmaiil.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:03:05 PM: DEBUG [persona_dao.py:33 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x000001C3275A2680; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+12:14:57 PM: DEBUG [persona_dao.py:35 Persona insertada: 
+            Id Persona: None, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:46 Personas insertadas: 1]
+12:14:57 PM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x000001C3275FA5E0; closed: 0>]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: Jcjuarez@fmaiil.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+12:14:57 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:46:29 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x0000012642182680; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+01:46:29 PM: DEBUG [persona_dao.py:35 Persona insertada: 
+            Id Persona: None, Nombre: JAJAJAJAJA1567,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:46 Personas insertadas: 1]
+01:46:29 PM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x00000126421DA5E0; closed: 0>]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: Jcjuarez@fmaiil.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:46:29 PM: DEBUG [persona_dao.py:51 
+            Id Persona: 34, Nombre: JAJAJAJAJA1567,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:54:41 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x000002637D2E2570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+01:54:41 PM: DEBUG [persona_dao.py:45 Valores actualizzados para la persona: 
+            Id Persona: 1, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:61 Personas actualizadas: 0]
+01:54:41 PM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x000002637D33A5E0; closed: 0>]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: Jcjuarez@fmaiil.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:54:41 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 34, Nombre: JAJAJAJAJA1567,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:55:03 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x00000173D6AD2570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+01:55:03 PM: DEBUG [persona_dao.py:45 Valores actualizzados para la persona: 
+            Id Persona: 34, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:61 Personas actualizadas: 1]
+01:55:03 PM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x00000173D6B2A5E0; closed: 0>]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: Jcjuarez@fmaiil.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:55:03 PM: DEBUG [persona_dao.py:66 
+            Id Persona: 34, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:56:45 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x000002CDCE7E2570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+01:56:45 PM: DEBUG [persona_dao.py:46 Valores actualizzados para la persona: 
+            Id Persona: 34, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:62 Personas actualizadas: 1]
+01:56:45 PM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x000002CDCE83A5E0; closed: 0>]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: Jcjuarez@fmaiil.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:56:45 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 34, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:57:11 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x0000022217972570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+01:57:11 PM: DEBUG [persona_dao.py:46 Valores actualizzados para la persona: 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:62 Personas actualizadas: 1]
+01:57:11 PM: DEBUG [conexion.py:42 Se abrió correctamente el cursor: <cursor object at 0x00000222179CA5E0; closed: 0>]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:57:11 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 34, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:58:01 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x000001D1D54D2570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+01:58:01 PM: DEBUG [persona_dao.py:46 Valores actualizzados para la persona: 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:62 Personas actualizadas: 1]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+01:58:01 PM: DEBUG [persona_dao.py:67 
+            Id Persona: 34, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:01:01 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x00000262F123A570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+02:01:01 PM: DEBUG [persona_dao.py:46 Valores actualizzados para la persona: 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:70 Personas actualizadas: 1]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+02:01:01 PM: DEBUG [persona_dao.py:78 
+            Id Persona: 34, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:02:04 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x0000018BFCA32570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+02:02:04 PM: DEBUG [persona_dao.py:46 Valores actualizzados para la persona: 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:70 Personas actualizadas: 1]
+02:02:04 PM: DEBUG [persona_dao.py:55 Objeto eliminado: 
+            Id Persona: 34, Nombre: None,
+            Apellido: None, Email: None    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:75 Personas eliminadas: 1]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:04 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 33, Nombre: JAJAJAJAJA,
+            Apellido: jajajajajajaj, Email: jajajaj.jajaja@jaja.com    
+    ]
+02:02:14 PM: DEBUG [conexion.py:25 Conexión exitosa: <connection object at 0x0000022552642570; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+02:02:14 PM: DEBUG [persona_dao.py:46 Valores actualizzados para la persona: 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:70 Personas actualizadas: 1]
+02:02:14 PM: DEBUG [persona_dao.py:55 Objeto eliminado: 
+            Id Persona: 33, Nombre: None,
+            Apellido: None, Email: None    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:75 Personas eliminadas: 1]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Perez, Email: jasjasjasjas@jajasj    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 4, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 5, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 6, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 7, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 8, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 10, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 12, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 13, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 14, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 15, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 16, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 17, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 18, Nombre: Juan,
+            Apellido: Lara, Email: jl@gmail.com    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 21, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 22, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 23, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 24, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 25, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 26, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 27, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 29, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 30, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 31, Nombre: PerroJuan,
+            Apellido: Anotnio, Email: correodemierda@hotmail    
+    ]
+02:02:14 PM: DEBUG [persona_dao.py:80 
+            Id Persona: 32, Nombre: Maria,
+            Apellido: Janer, Email: j.janer    
+    ]
+05:48:58 PM: ERROR [conexion.py:41 Ocurrió un error al tratar de obtener el pool. type object 'Conexion' has no attribute '_User']
+05:49:26 PM: DEBUG [conexion.py:39 Creación del pool exitoso.]
+05:51:51 PM: DEBUG [conexion.py:39 Creación del pool exitoso.]
+05:52:36 PM: DEBUG [conexion.py:39 Creación del pool exitoso.]
+05:57:26 PM: DEBUG [conexion.py:38 Creación del pool exitoso.]
+06:00:07 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x0000024660D7FDD0>]
+06:00:07 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002466117C9D0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:00:07 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002466117CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:01:59 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x000002609246FED0>]
+06:01:59 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002609286C9D0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:01:59 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002609286CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:01:59 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002609286CF20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:01:59 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002609286D030; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:01:59 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002609286D140; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:02:18 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x0000028D6695FE90>]
+06:02:18 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000028D66D5C9D0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:02:18 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000028D66D5CE10; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:02:18 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000028D66D5CF20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:02:18 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000028D66D5D030; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:02:18 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000028D66D5D140; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:18:34 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x0000023AA0E57990>]
+06:18:34 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000023A9F40CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:18:34 PM: DEBUG [conexion.py:58 Regresamos la conexion al pool: <connection object at 0x0000023A9F40CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:18:34 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000023A9F40CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:18:34 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000023A9F40CF20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:18:34 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000023A9F40D030; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:04 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x0000025E98B87790>]
+06:19:04 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000025E9713CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:04 PM: DEBUG [conexion.py:58 Regresamos la conexion al pool: <connection object at 0x0000025E9713CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:04 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000025E9713CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:04 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000025E9713CF20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:04 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000025E9713D030; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:04 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000025E9713D140; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:04 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000025E9713D250; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:17 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x000001E5802A7910>]
+06:19:17 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000001E5FE83CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:17 PM: DEBUG [conexion.py:58 Regresamos la conexion al pool: <connection object at 0x000001E5FE83CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:17 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000001E5FE83CAE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:17 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000001E5FE83CF20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:17 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000001E5FE83D030; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:17 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000001E5FE83D140; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:19:17 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000001E5FE83D250; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:48:06 PM: DEBUG [cursor_del_pool.py:18 Inicio del método with __enter__]
+07:48:06 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x0000017F4FD83610>]
+07:48:06 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000017F517E17A0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:48:06 PM: DEBUG [cursor_del_pool.py:46 Dentro del bloque 'with.']
+07:48:06 PM: DEBUG [cursor_del_pool.py:48 [(5, 'Juan', 'Lara', 'jl@gmail.com'), (6, 'Juan', 'Lara', 'jl@gmail.com'), (7, 'Juan', 'Lara', 'jl@gmail.com'), (8, 'Juan', 'Lara', 'jl@gmail.com'), (10, 'Juan', 'Lara', 'jl@gmail.com'), (12, 'Juan', 'Lara', 'jl@gmail.com'), (13, 'Juan', 'Lara', 'jl@gmail.com'), (14, 'Juan', 'Lara', 'jl@gmail.com'), (15, 'Juan', 'Lara', 'jl@gmail.com'), (16, 'Juan', 'Lara', 'jl@gmail.com'), (17, 'Juan', 'Lara', 'jl@gmail.com'), (18, 'Juan', 'Lara', 'jl@gmail.com'), (22, 'Maria', 'Janer', 'j.janer'), (23, 'Maria', 'Janer', 'j.janer'), (24, 'Maria', 'Janer', 'j.janer'), (26, 'Maria', 'Janer', 'j.janer'), (27, 'Maria', 'Janer', 'j.janer'), (4, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (29, 'Maria', 'Janer', 'j.janer'), (21, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (25, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (32, 'Maria', 'Janer', 'j.janer'), (30, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (31, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (3, 'Juan Carlos', 'Perez', 'jasjasjasjas@jajasj')]]
+07:48:06 PM: DEBUG [cursor_del_pool.py:30 Se ejecuta método __exit__]
+07:48:06 PM: DEBUG [cursor_del_pool.py:37 Commit de la transacción con éxito.]
+07:48:06 PM: DEBUG [conexion.py:58 Regresamos la conexion al pool: <connection object at 0x0000017F517E17A0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:48:34 PM: DEBUG [cursor_del_pool.py:18 Inicio del método with __enter__]
+07:48:34 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x000002B75524A5D0>]
+07:48:34 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x000002B7551A0F20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:48:34 PM: DEBUG [cursor_del_pool.py:47 Dentro del bloque 'with.']
+07:48:34 PM: DEBUG [cursor_del_pool.py:49 [(5, 'Juan', 'Lara', 'jl@gmail.com'), (6, 'Juan', 'Lara', 'jl@gmail.com'), (7, 'Juan', 'Lara', 'jl@gmail.com'), (8, 'Juan', 'Lara', 'jl@gmail.com'), (10, 'Juan', 'Lara', 'jl@gmail.com'), (12, 'Juan', 'Lara', 'jl@gmail.com'), (13, 'Juan', 'Lara', 'jl@gmail.com'), (14, 'Juan', 'Lara', 'jl@gmail.com'), (15, 'Juan', 'Lara', 'jl@gmail.com'), (16, 'Juan', 'Lara', 'jl@gmail.com'), (17, 'Juan', 'Lara', 'jl@gmail.com'), (18, 'Juan', 'Lara', 'jl@gmail.com'), (22, 'Maria', 'Janer', 'j.janer'), (23, 'Maria', 'Janer', 'j.janer'), (24, 'Maria', 'Janer', 'j.janer'), (26, 'Maria', 'Janer', 'j.janer'), (27, 'Maria', 'Janer', 'j.janer'), (4, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (29, 'Maria', 'Janer', 'j.janer'), (21, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (25, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (32, 'Maria', 'Janer', 'j.janer'), (30, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (31, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (3, 'Juan Carlos', 'Perez', 'jasjasjasjas@jajasj')]]
+07:48:34 PM: DEBUG [cursor_del_pool.py:30 Se ejecuta método __exit__]
+07:48:34 PM: DEBUG [cursor_del_pool.py:37 Commit de la transacción con éxito.]
+07:48:34 PM: DEBUG [cursor_del_pool.py:40 Cerramos el cursor del objeto.]
+07:48:34 PM: DEBUG [conexion.py:58 Regresamos la conexion al pool: <connection object at 0x000002B7551A0F20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:49:33 PM: DEBUG [cursor_del_pool.py:18 Inicio del método with __enter__]
+07:49:33 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x0000019590B21550>]
+07:49:33 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000019592540F20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:49:33 PM: DEBUG [cursor_del_pool.py:21 Cursor del objeto creado.]
+07:49:33 PM: DEBUG [cursor_del_pool.py:48 Dentro del bloque 'with.']
+07:49:33 PM: DEBUG [cursor_del_pool.py:50 [(5, 'Juan', 'Lara', 'jl@gmail.com'), (6, 'Juan', 'Lara', 'jl@gmail.com'), (7, 'Juan', 'Lara', 'jl@gmail.com'), (8, 'Juan', 'Lara', 'jl@gmail.com'), (10, 'Juan', 'Lara', 'jl@gmail.com'), (12, 'Juan', 'Lara', 'jl@gmail.com'), (13, 'Juan', 'Lara', 'jl@gmail.com'), (14, 'Juan', 'Lara', 'jl@gmail.com'), (15, 'Juan', 'Lara', 'jl@gmail.com'), (16, 'Juan', 'Lara', 'jl@gmail.com'), (17, 'Juan', 'Lara', 'jl@gmail.com'), (18, 'Juan', 'Lara', 'jl@gmail.com'), (22, 'Maria', 'Janer', 'j.janer'), (23, 'Maria', 'Janer', 'j.janer'), (24, 'Maria', 'Janer', 'j.janer'), (26, 'Maria', 'Janer', 'j.janer'), (27, 'Maria', 'Janer', 'j.janer'), (4, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (29, 'Maria', 'Janer', 'j.janer'), (21, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (25, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (32, 'Maria', 'Janer', 'j.janer'), (30, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (31, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (3, 'Juan Carlos', 'Perez', 'jasjasjasjas@jajasj')]]
+07:49:33 PM: DEBUG [cursor_del_pool.py:31 Se ejecuta método __exit__]
+07:49:33 PM: DEBUG [cursor_del_pool.py:38 Commit de la transacción con éxito.]
+07:49:33 PM: DEBUG [cursor_del_pool.py:41 Cerramos el cursor del objeto.]
+07:49:33 PM: DEBUG [conexion.py:58 Regresamos la conexion al pool: <connection object at 0x0000019592540F20; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:50:56 PM: DEBUG [cursor_del_pool.py:8 Se crea el objeto conexión]
+07:50:56 PM: DEBUG [cursor_del_pool.py:19 Inicio del método with __enter__]
+07:50:56 PM: DEBUG [conexion.py:38 Creación del pool exitoso. <psycopg2.pool.SimpleConnectionPool object at 0x0000019A4E0214D0>]
+07:50:56 PM: DEBUG [conexion.py:52 Conexion obtenida del pool: <connection object at 0x0000019A4E099030; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+07:50:56 PM: DEBUG [cursor_del_pool.py:22 Cursor del objeto creado.]
+07:50:56 PM: DEBUG [cursor_del_pool.py:49 Dentro del bloque 'with.']
+07:50:56 PM: DEBUG [cursor_del_pool.py:51 [(5, 'Juan', 'Lara', 'jl@gmail.com'), (6, 'Juan', 'Lara', 'jl@gmail.com'), (7, 'Juan', 'Lara', 'jl@gmail.com'), (8, 'Juan', 'Lara', 'jl@gmail.com'), (10, 'Juan', 'Lara', 'jl@gmail.com'), (12, 'Juan', 'Lara', 'jl@gmail.com'), (13, 'Juan', 'Lara', 'jl@gmail.com'), (14, 'Juan', 'Lara', 'jl@gmail.com'), (15, 'Juan', 'Lara', 'jl@gmail.com'), (16, 'Juan', 'Lara', 'jl@gmail.com'), (17, 'Juan', 'Lara', 'jl@gmail.com'), (18, 'Juan', 'Lara', 'jl@gmail.com'), (22, 'Maria', 'Janer', 'j.janer'), (23, 'Maria', 'Janer', 'j.janer'), (24, 'Maria', 'Janer', 'j.janer'), (26, 'Maria', 'Janer', 'j.janer'), (27, 'Maria', 'Janer', 'j.janer'), (4, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (29, 'Maria', 'Janer', 'j.janer'), (21, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (25, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (32, 'Maria', 'Janer', 'j.janer'), (30, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (31, 'PerroJuan', 'Anotnio', 'correodemierda@hotmail'), (3, 'Juan Carlos', 'Perez', 'jasjasjasjas@jajasj')]]
+07:50:56 PM: DEBUG [cursor_del_pool.py:32 Se ejecuta método __exit__]
+07:50:56 PM: DEBUG [cursor_del_pool.py:39 Commit de la transacción con éxito.]
+07:50:56 PM: DEBUG [cursor_del_pool.py:42 Cerramos el cursor del objeto.]
+07:50:56 PM: DEBUG [conexion.py:58 Regresamos la conexion al pool: <connection object at 0x0000019A4E099030; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
